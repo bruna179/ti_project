@@ -1,0 +1,2 @@
+ - Código da interface interativa no Processing
+ - Código da leitura dos valores dos sensores e controlo do relé no Arduino IDE
